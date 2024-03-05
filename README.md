@@ -6,7 +6,7 @@ Technology stack: Netbeans, Java, JavaFX, MySQL
 
 # Features
 
-Manage SQL Connection
+Manage local SQL Connection
 ![connection](images/bpms-local.png)
 
 Register as a new user:
